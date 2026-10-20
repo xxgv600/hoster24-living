@@ -32,7 +32,7 @@ jobs:
       - name: Run keepalive bot
         env:
           MC_HOST: server.hoster24.org
-          MC_PORT: "24825"
+          MC_PORT: "24621"
           MC_AUTH: offline
           MC_USER: qx47_kp9z2 # 须与服务器 whitelist.json 里的一致
           STAY_MIN: "20"
